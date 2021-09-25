@@ -4,9 +4,17 @@
 
 ![image](https://github.com/yuchenxi2000/diana-curve/blob/main/diana_origin.jpg)
 
+## 公式
+
+* Matlab代码：见matlab目录
+
+* Mathematica：见Mathematica目录
+
+* TeX公式：见tex目录
+
 ## 使用
 
-把matlab文件夹下三个文件导入Matlab，然后运行plot_diana.m。或者在generator目录下运行visualize.py
+把matlab文件夹下三个文件导入Matlab，然后运行plot_diana.m，或者在generator目录下运行visualize.py。用Mathematica的复制Mathematica目录下两个文件的内容到Mathematica。
 
 generator文件夹下是生成公式的Python脚本
 
@@ -23,8 +31,4 @@ Einstein curve https://www.wolframalpha.com/input/?i=Einstein+curve
 2. 对每段曲线做FFT，做适当的截断，转成方程
 
 > 最耗时的工作不是写脚本而是描点。。
-
-## TODO
-
-其他软件的公式生成，如Mathematica（目前只能生成Matlab）
 
