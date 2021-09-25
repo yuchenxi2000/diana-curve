@@ -1,12 +1,12 @@
 # 嘉然曲线（Diana Curve）
 
-![image](https://github.com/yuchenxi2000/diana-curve/blob/master/diana.jpg)
+![image](https://github.com/yuchenxi2000/diana-curve/blob/main/diana.jpg)
 
-![image](https://github.com/yuchenxi2000/diana-curve/blob/master/diana_origin.jpg)
+![image](https://github.com/yuchenxi2000/diana-curve/blob/main/diana_origin.jpg)
 
 ## 使用
 
-把matlab文件夹下三个文件导入Matlab，然后运行plot_diana.m
+把matlab文件夹下三个文件导入Matlab，然后运行plot_diana.m。或者在generator目录下运行visualize.py
 
 generator文件夹下是生成公式的Python脚本
 
